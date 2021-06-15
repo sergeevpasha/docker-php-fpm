@@ -1,3 +1,5 @@
+[![CodeFactor](https://www.codefactor.io/repository/github/sergeevpasha/docker-php-fpm/badge)](https://www.codefactor.io/repository/github/sergeevpasha/docker-php-fpm)
+[![Docker Image CI](https://github.com/sergeevpasha/docker-php-fpm/actions/workflows/dockerimage.yml/badge.svg)](https://github.com/sergeevpasha/docker-php-fpm/actions/workflows/dockerimage.yml)
 # PHP-FPM
 
 Built on PHP 8.0-FPM image
